@@ -1,4 +1,7 @@
-![GitHub Universe](./assets/github.png)
+<p align="center">
+  <img alt="png" src="./assets/Github.png"/>
+</p>
+
 
 
 # GitHub Universe Cloud Skills Challenge
